@@ -27,12 +27,10 @@
 //     return name;
 // }
 
-// return
-
-// getPlanetName(3); // 'Neptune'
-// getPlanetName(8); // 'Neptune'
-// getPlanetName(1); // 'Neptune'
-
+// Test Results:
+// Expected: 'Venus', instead got: 'Neptune'
+// Expected: 'Jupiter', instead got: 'Neptune'
+// Expected: 'Earth', instead got: 'Neptune'
 
 
 // Solution:
